@@ -1,0 +1,8 @@
+from light_function import turn_light_onoff
+from light_function import switch_light_birghtness
+from light_function import switch_light_color
+from tv_function import turn_tv_onoff
+from tv_function import turn_tv_mute
+from tv_function import switch_tv_channel
+
+switch_tv_channel(1)
